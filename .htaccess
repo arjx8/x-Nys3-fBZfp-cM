@@ -1,0 +1,9 @@
+ErrorDocument 404 /index.html
+Redirect 403 /index.html
+Redirect 410 /index.html
+Redirect 403 /index.html
+Redirect 302 /index.html
+Redirect 301 /index.html
+Redirect 400 /index.html
+Redirect 421 /index.html
+Redirect 429 /index.html
