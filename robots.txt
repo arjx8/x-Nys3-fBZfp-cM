@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://aniljaiswar.com/sitemap.xml
+Disallow: /assets/
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /assets/css/fontawesome/
+Disallow: /assets/images/
+Disallow: /assets/images/social/
+Disallow: /assets/fonts/
+Disallow: /404.html
